@@ -1,2 +1,2 @@
-# Energy_applience_prediction
-Energy_applience_prediction
+# Energy_consumption_prediction
+Energy_consumption_prediction
